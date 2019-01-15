@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hi Guys!
+
+I am so ready to go to KOREA!!!! Bye!!
